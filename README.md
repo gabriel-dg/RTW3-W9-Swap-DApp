@@ -22,6 +22,8 @@
 - Solve recent issue ('SenderNotAuthorizedError')
 - Enable/Disable "Swap Tokens" button according to Metamask connection state
 - Update converted amount on any change (not only from amount onChange/onBlur but when Tokens change again)
+- Add a Search field in TokenList
+- Finish column Sort in TokenList Table
 
 
 ## INSTALLATION NOTES
